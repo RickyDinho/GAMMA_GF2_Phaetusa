@@ -2,7 +2,7 @@
 
 A fan-made mod that adds **Phaetusa** from *Girls' Frontline* as a standalone NPC companion in *S.T.A.L.K.E.R. GAMMA*.
 
-She spawns at the military base in Red Forest, is recruitable as a companion, and has some custom voice lines, dialog, and combat barks.
+She spawns at the Sin base in Red Forest, is recruitable as a companion, and has some custom voice lines, dialog, and combat barks.
 
 ---
 
@@ -104,4 +104,4 @@ This restriction applies to the author's original work only. Third-party assets 
 
 ## Contact
 
-Open an issue on this repository for bug reports, takedown requests, or questions.
+Open an issue on this repository https://github.com/RickyDinho/GAMMA_GF2_Phaetusa for bug reports, takedown requests, or questions.
