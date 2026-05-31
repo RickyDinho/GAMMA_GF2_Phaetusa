@@ -1,5 +1,8 @@
 # Girls' Frontline Phaetusa — STALKER GAMMA Companion Mod
 
+
+IMPORTANT: You need to put the companion in ASSAULT mode through the companion UI (by pressing "C" ingame) for her to engage in melee combat.
+
 A fan-made mod that adds **Phaetusa** from *Girls' Frontline* as a standalone NPC companion in *S.T.A.L.K.E.R. GAMMA*.
 
 She spawns at the Sin base in Red Forest, is recruitable as a companion, and has some custom voice lines, dialog, and combat barks.
